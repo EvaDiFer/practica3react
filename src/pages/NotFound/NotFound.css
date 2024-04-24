@@ -1,0 +1,9 @@
+.not-found {
+  height: 90svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(235, 210, 129);
+  font-weight: bold;
+  font-size: 50px;
+}
